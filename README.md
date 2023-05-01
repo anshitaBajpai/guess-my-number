@@ -1,2 +1,2 @@
-# guess-my-number
-#It is a basic game in which you have to guess a number.
+# Guess a number Game
+It is a fun and interactive JavaScript game where players have to guess a randomly generated number. 
